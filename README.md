@@ -1,5 +1,1 @@
-My name is Tom. I am currently learning **JavaScript**. My goals are:
-
-- [x] Simple game.
-- [ ] React
-- [ ] React *native*
+My name is Tom. I am currently learning to work with Linux and **Bash**
